@@ -1,0 +1,134 @@
+{
+"BaseResponse": {
+"Ret": 0,
+"ErrMsg": ""
+}
+,
+"AddMsgCount": 1,
+"AddMsgList": [{
+"MsgId": "1720782029631806887",
+"FromUserName": "@@e4510c0179ec779dc9fb8955645586a655945965580e4e31725d6087bc323e44",
+"ToUserName": "@fae841c396e66963502a622de86be25d",
+"MsgType": 1,
+"Content": "@88757ffb1bfaeb8e83af53c0463a46477ee70d2156f71cfd41fdb5ac6f963cd2:<br/>我现在偶尔看看91",
+"Status": 3,
+"ImgStatus": 1,
+"CreateTime": 1466940097,
+"VoiceLength": 0,
+"PlayLength": 0,
+"FileName": "",
+"FileSize": "",
+"MediaId": "",
+"Url": "",
+"AppMsgType": 0,
+"StatusNotifyCode": 0,
+"StatusNotifyUserName": "",
+"RecommendInfo": {
+"UserName": "",
+"NickName": "",
+"QQNum": 0,
+"Province": "",
+"City": "",
+"Content": "",
+"Signature": "",
+"Alias": "",
+"Scene": 0,
+"VerifyFlag": 0,
+"AttrStatus": 0,
+"Sex": 0,
+"Ticket": "",
+"OpCode": 0
+}
+,
+"ForwardFlag": 0,
+"AppInfo": {
+"AppID": "",
+"Type": 0
+}
+,
+"HasProductId": 0,
+"Ticket": "",
+"ImgHeight": 0,
+"ImgWidth": 0,
+"SubMsgType": 0,
+"NewMsgId": 1720782029631806887
+}
+],
+"ModContactCount": 0,
+"ModContactList": [],
+"DelContactCount": 0,
+"DelContactList": [],
+"ModChatRoomMemberCount": 0,
+"ModChatRoomMemberList": [],
+"Profile": {
+"BitFlag": 0,
+"UserName": {
+"Buff": ""
+}
+,
+"NickName": {
+"Buff": ""
+}
+,
+"BindUin": 0,
+"BindEmail": {
+"Buff": ""
+}
+,
+"BindMobile": {
+"Buff": ""
+}
+,
+"Status": 0,
+"Sex": 0,
+"PersonalCard": 0,
+"Alias": "",
+"HeadImgUpdateFlag": 0,
+"HeadImgUrl": "",
+"Signature": ""
+}
+,
+"ContinueFlag": 0,
+"SyncKey": {
+"Count": 9,
+"List": [{
+"Key": 1,
+"Val": 635862409
+}
+,{
+"Key": 2,
+"Val": 635862683
+}
+,{
+"Key": 3,
+"Val": 635862552
+}
+,{
+"Key": 11,
+"Val": 635862432
+}
+,{
+"Key": 13,
+"Val": 635832600
+}
+,{
+"Key": 201,
+"Val": 1466940097
+}
+,{
+"Key": 1000,
+"Val": 1466937541
+}
+,{
+"Key": 1001,
+"Val": 1466937571
+}
+,{
+"Key": 1002,
+"Val": 1466428904
+}
+]
+}
+,
+"SKey": ""
+}
